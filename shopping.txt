@@ -21,3 +21,5 @@ Zucker
 Kaugummi
 Soletti
 Chips
+Kekse
+Salsa
